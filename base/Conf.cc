@@ -3,7 +3,7 @@
 #define DEFAULT_THREADS 3
 #define DEFAULT_PORT "8888"
 #define DEFAULT_LISTENQ 2048
-#define DEFAULT_STORAGE "test/"
+#define DEFAULT_STORAGE "../test/"
 #define DEFAULT_KEEPALIVE 20000
 #define DEFAULT_LOGFILE "log/WebServer.log"
 #define DEFAULT_CAPACITY 10
