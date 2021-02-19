@@ -25,7 +25,13 @@
 | net | 网络 |
 | test | 功能测试 |
 ## 安装及运行
-运行前请先安装CMake（2.8及以上版本）
+- 修改配置
+```
+cd base
+vim WebServer.conf
+修改完成后，可进入 Conf.cc 修改相关宏定义
+```
+- 运行前请先安装CMake（2.8及以上版本）
 ```
 cd server
 cmake .
