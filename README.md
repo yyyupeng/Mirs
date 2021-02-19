@@ -32,3 +32,16 @@ cmake .
 make
 ./Server
 ```
+## 测试
+- 基础功能
+
+![image --index](https://raw.githubusercontent.com/yyyupeng/Mirs/main/image/index.png)
+	+ 图片
+
+![image --photo](https://raw.githubusercontent.com/yyyupeng/Mirs/main/image/photo.png)
+	+ 音频
+
+![image --music](https://raw.githubusercontent.com/yyyupeng/Mirs/main/image/music.png)
+	+ 动态网页
+
+![image --submit](https://raw.githubusercontent.com/yyyupeng/Mirs/main/image/submit.png)
